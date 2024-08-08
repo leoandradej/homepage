@@ -136,6 +136,7 @@ i:focus {
     color: var(--light-clr);
     border-radius: 0 0 1em 1em;
     font-size: var(--fs-xs);
+    font-weight: 200;
 }
 
 .card__heading {
@@ -158,6 +159,7 @@ i:focus {
     flex-direction: column;
     gap: 1em;
     padding: 1em;
+    font-weight: 200;
 }
 
 .contact__title {
